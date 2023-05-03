@@ -5,7 +5,7 @@ The following model have been trained and tested on google colab.
 
 Dataset used ----> https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
 
-The dataset contains aerial imagery of dubai and corresponding masks donating 6 classes.
+The dataset contains aerial imagery of dubai and corresponding masks donating 6 classes.The model trained here has an accuracy score of 0.756
 
 ## Images
 
